@@ -2,6 +2,9 @@
 
 **EEGscape** is a groundbreaking project designed to make gaming accessible to individuals with disabilities while also offering unique challenges to able-bodied users. By utilizing EEG (electroencephalogram) technology, we enable players to interact with games using head movements, concentration, and blinks, creating an immerse and inclusive gaming experience.
 
+![EEGscape.png](https://github.com/user-attachments/assets/16092501-7fc9-45ab-9566-d2710ba2491f)
+
+
 ## :rocket: Inspiration
 
 EEGscape started with a simple idea: let’s make gaming something everyone can enjoy, no matter what challenges they face. Traditional controllers can be tough for people who don’t have full motor control, so we thought, "Why not use your brain instead?"
@@ -31,51 +34,6 @@ EEGscape combines cutting-edge hardware and modern web technologies to deliver a
 
 ---
 
-## Challenges We Faced
-
-### 1. **Interpreting Raw EEG Data**
-
-The headset provides raw data streams from various sensors, and this involved:
-
-- Filtering noise from brainwave signals.
-- Establishing thresholds for actions like blinks or head tilts.
-- Mapping concentration levels to meaningful in-game responses.
-
-### 2. **Hardware-Software Integration**
-
-Seamlessly linking the EEG headset's output with the React frontend was a challenge, particularly ensuring that the input methods felt intuitive and lag-free.
-
-### 3. **Game Design**
-
-Developing engaging games that effectively utilized the limited input methods required careful design and iteration.
-
-## :seedling: What We Learned
-
-EEGscape was a journey of discovery. Along the way, we:
-
-- **Explored EEG Technology**: We gained hands-on experience with interpreting brain activity and linking it to software applications. Most of our team members were working with this technology for the first time.
-- **Refined Game Development Techniques**: Designing games that are both fun and accessible required out-of-the-box thinking.
-
----
-
-## :crystal_ball: What's Next for EEGscape
-
-EEGscape is a platform with immense potential for future development. Here’s what’s on the horizon:
-
-### **1. Expanding the Game Library**
-
-Adding more games to provide diverse and engaging experiences for players with different preferences.
-
-### **2. Leveraging Additional Sensors**
-
-Incorporating the headset’s heart rate sensor to create adaptive game mechanics, such as:
-
-- Increasing game difficulty during moments of high stress.
-- Introducing relaxation modes to help players unwind.
-
-### **3. Community Involvement**
-
-Encouraging contributions from developers and players to create custom games and features that enrich the EEGscape ecosystem. Using Dojo from Starknet to allow users to deploy custom mini games on the application.
 
 ## :hammer_and_wrench: Built With
 
